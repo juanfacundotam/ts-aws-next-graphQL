@@ -10,11 +10,6 @@
       "StackName": "amplify-tsnextamplified-dev-01735",
       "StackId": "arn:aws:cloudformation:sa-east-1:349188358647:stack/amplify-tsnextamplified-dev-01735/903319b0-671b-11ee-ab7d-0aa25e99d0ee",
       "AmplifyAppId": "d1rssrf4oi29j0"
-    },
-    "categories": {
-      "auth": {
-        "tsnextamplified767b007f": {}
-      }
     }
   }
 }
